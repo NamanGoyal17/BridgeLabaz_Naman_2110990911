@@ -1,6 +1,13 @@
-# Summary of Work
+## Summary of the work 
 
-## Branch Feature 2-12-2024
-This Branch demonstrates fundamental JavaScript concepts with examples of basic structures and functionality.Below are the key concepts covered:
+# On 2 December 2024
+Learn Git and Github
+Learn the basics of Javascript
+Practice Problem of Loops.
+Practice Problem of the assignment of if and else.
 
--'Readme.md'
+# On 3 December 2024
+Practice Probem of Switch Case.
+Practice Problem of While loops. 
+Practice Problem of Function case.
+
