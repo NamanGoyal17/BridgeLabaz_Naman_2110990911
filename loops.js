@@ -219,11 +219,11 @@ while (money > 0 && money < goal) {
     let bet = Math.random() < 0.5 ? 1 : -1; // Win (+1) or lose (-1)
 
     if (bet === 1) {
-        wins++; // Increment wins
+        wins++; 
     }
 
-    money += bet; // Update money based on the outcome of the bet
-    betsMade++; // Increment number of bets
+    money += bet; 
+    betsMade++; 
 
     console.log(`Bets made: ${betsMade}, Money: Rs ${money}, Wins: ${wins}`);
 }
