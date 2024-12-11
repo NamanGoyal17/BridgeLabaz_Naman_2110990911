@@ -82,3 +82,21 @@ function recursiveSearch(arr,index,target){
     return recursiveSearch(arr,index+1,target);
 }
 console.log(recursiveSearch(arr,0,70));
+
+/*
+Summary of Methods:
+
+1 Linear Search: Iterate through the array manually.
+2 Binary Search: Use for sorted arrays, repeatedly divide the search interval.
+3 indexOf(): Find the index of the element.
+4 find(): Find the element itself (returns undefined if not found).
+5 findIndex(): Find the index of the element (returns -1 if not found).
+6 some(): Check if at least one element matches the condition.
+7 includes(): Check if the array contains the specified element.
+8 filter(): Return all elements matching the condition.
+9 reduce(): Accumulate a result while searching (e.g., index of the element).
+10 forEach(): Iterate through the array (no return value).
+11 Recursive Search: Custom search using recursion.
+
+Each method is suitable for different situations, depending on the complexity of your search and the characteristics of the array.
+*/
