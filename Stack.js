@@ -17,7 +17,13 @@ class Stack{
     }
     // To pop the top the element
     pop(){
-        this.array.pop();
+        if(this.array.length == 0){
+            console.log("Stack is empty");
+        }
+        else{
+            this.array.pop();
+        }
+        
     }
     // To check the stack is empty
     isEmpty(){
@@ -33,14 +39,19 @@ class Stack{
     size(){
         console.log(this.array.length);
     }
+    reverse(){
+        this.array = [];
+
+    }
 }
 
 const myStack = new Stack();
-myStack.push(5);
-myStack.push(6);
-myStack.push(7);
-myStack.push(8);
+//myStack.push(5);
+//myStack.push(6);
+//myStack.push(7);
+//myStack.push(8);
 myStack.push(9);
+myStack.pop();
 myStack.pop();
 myStack.peek();
 myStack.isEmpty();
