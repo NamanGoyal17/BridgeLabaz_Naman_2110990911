@@ -1,6 +1,20 @@
 # Summary of Work
 
-## Branch Feature 2-12-2024
-This Branch demonstrates fundamental JavaScript concepts with examples of basic structures and functionality.Below are the key concepts covered:
+## Branch Feature Data Structure and Algorithms 
+This Branch **Data Structures and Algorithms** is a comprehensive collection of essential concepts, implementations, and resources related to data structures and algorithms, aimed to build a strong foundation in JavaScript.
 
--'Readme.md'
+## Features
+- Detailed explanations of various data structures and algorithms.
+- Code implementations in JavaScript languages.
+- Examples and use-cases for each concept.
+- Practice problems and solutions.
+- Easy-to-navigate directory structure.
+
+## Data Structures
+├── arrays
+├── linked_lists
+├── stacks
+├── queues
+├── trees
+├── sorting_algorithms
+├── searching_algorithms
