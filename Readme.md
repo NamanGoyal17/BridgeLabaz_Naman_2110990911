@@ -11,10 +11,10 @@ This Branch **Data Structures and Algorithms** is a comprehensive collection of 
 - Easy-to-navigate directory structure.
 
 ## Data Structures
-├── arrays
-├── linked_lists
-├── stacks
-├── queues
-├── trees
-├── sorting_algorithms
-├── searching_algorithms
+- Arrays
+- Linked lists
+- Stacks
+- Queues
+- Trees
+- Sorting algorithms
+- Searching algorithms
